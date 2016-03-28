@@ -45,7 +45,7 @@ accordance with the terms of that agreement
         
     //modal alert window
         $.ajax({
-            url: 'http://intel-realsense-extension-for-scratch.github.io/public/extension/dialog.html',
+            url: 'http://acquadrod.github.io/public/extension/dialog.html',
             method: 'GET',
             // async: false,
             success: function(data) {
